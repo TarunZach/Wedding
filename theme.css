@@ -133,3 +133,9 @@ li {
     font-size: 4em;
   }
 }
+
+@media (max-width: 500px) {
+  .heading {
+    display: none;
+  }
+}
